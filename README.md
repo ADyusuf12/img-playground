@@ -26,5 +26,5 @@
 ## Installation Instructions
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/image-playground.git
+   git clone https://github.com/ADyusuf12/img-playground.git
    cd image-playground
